@@ -1,0 +1,28 @@
+_repo: Love-at-Paddington_26135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ridge, W. Pett (William Pett)
+    alias: Ridge, William Pett
+    deathdate: 1930
+    gutenberg_agent_id: '6773'
+    url: http://www.gutenberg.org/2009/agents/6773
+description: ''
+gutenberg_issued: '2008-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Love stories'
+title: Love at Paddington
+url: http://www.gutenberg.org/ebooks/26135
